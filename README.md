@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Weliojr
 - 👀 I’m interested in learn to program
+- ☕ java enthusiast
 - 🌱 I’m currently studying computer science
 
 
