@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Weliojr
 - 👀 I’m interested in learn to program
 - ☕ java enthusiast
+- ☁️ studying cloud
+- 💻 studying nodejs
 - 🌱 I’m currently studying computer science
 
 
